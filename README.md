@@ -80,7 +80,7 @@ All bugs were documented in JIRA with screenshots and followed up until closure.
 Using the same methodology as the Payroll project, the financial impact was calculated based on avoided losses:
 
 - **Abiraterone cost per dose:** ~$60,000 MXN.
-- **Estimated unauthorized or wasted doses per month (before):** ~50 doses across the hospital network.
+- **Estimated unauthorized or wasted doses per month (before):** ~50 doses across the hospital network (based on interviews with pharmacists).
 - **Monthly loss before:** ~$3,000,000 MXN.
 - **Monthly loss after:** Near zero (system-enforced authorization).
 - **Annualized savings:** ~$36,000,000 MXN.
