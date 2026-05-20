@@ -1,4 +1,4 @@
-# oncology-authorization
+# Oncology-authorization
 Authorization workflow for high-value oncology drugs. Functional BA case study with business rules, BPMN, UAT, and financial impact.
 
 # Authorization Workflow for High-Value Oncology Drugs
